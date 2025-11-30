@@ -1,0 +1,2 @@
+# [Correo de autor antiguo] = [Nuevo nombre de autor] <[Nuevo correo de autor]>
+a2223330175@alumnos.uat.edu.mx = JoseEmilioGuzmanOrtega <joseemilio603@gmail.com>
